@@ -16,7 +16,7 @@ display: flex;
 .navbar{
 
 width: 100%;
-height: 10%;
+height: 100%;
 color: rgb(237,238,201);
 display: flex;
 justify-content: space-around;
@@ -65,7 +65,7 @@ padding: 20px 10px
 }
 
 
-@media all and (max-width: 1000px) {
+@media all and (max-width: 450px) {
 
     .nav-list .list-item{
         background-color: rgb(3, 102,102);
