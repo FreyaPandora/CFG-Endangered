@@ -183,7 +183,8 @@ body{font-family: Helvetica, sans-serif;
   }
 
   .oops img{
-    width: 50%
+    max-width: 100%;
+
   }
     /* footer */
 #footer {
