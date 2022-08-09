@@ -4,7 +4,8 @@ background-color:rgb(237,238,201);
 color:rgb(3, 102,102);
 line-height-step: 5px;
 height: auto;
-margin: 0px;}
+margin: 0px;
+overflow-x: hidden;}
 
 /* Start of nav */
 
@@ -263,7 +264,6 @@ width: 30px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     align-items: center;
-    width: 100%;
 }
 
 
