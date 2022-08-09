@@ -1,4 +1,6 @@
 //nav bar 
+
+
 const togglebutton = document.getElementById('toggle-button');
 const navilist = document.getElementById('navilist');
 
