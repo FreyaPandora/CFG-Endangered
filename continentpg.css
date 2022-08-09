@@ -5,7 +5,8 @@ color:rgb(3, 102,102);
 line-height-step: 5px;
 height: auto;
 margin: 0px;
-overflow-x: hidden;}
+overflow-x: hidden;
+}
 
 /* Start of nav */
 
@@ -215,11 +216,11 @@ left: -40px;
 .carousel__button--right{
     position: absolute;
 top: 50%;
-transform: translateY(260%);
+transform: translateY(500%);
 background: transparent;
 border: 0;
 cursor: pointer;
-right: -10px;
+right: -5px;
 
 }
 
